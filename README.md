@@ -1,7 +1,7 @@
 # Amazon Movie Review Star Rating Prediction
 
 ## Starter Code Instructions
-https://www.kaggle.com/competitions/cs506-fall-2022/leaderboard
+https://www.kaggle.com/competitions/cs506-fall-2022/overview
 
 1. Download the `train.csv` and `test.csv` files from Kaggle into the `data/` folder
 2. Run `test_setup.py` to make sure you can load the files and print the first few rows of `train.csv` and `test.csv` and view their shapes + some visualization
