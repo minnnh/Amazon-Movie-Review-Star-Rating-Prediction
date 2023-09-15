@@ -1,4 +1,4 @@
-# CS506 Midterm
+# Amazon Movie Review Star Rating Prediction
 
 ## Starter Code Instructions
 
